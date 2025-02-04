@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="title_activity_add_edit_recipe">Add/Edit Recipe</string>
+
+</resources>
